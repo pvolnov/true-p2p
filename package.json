@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "node main.js"
+  },
+  "dependencies": {
+    "@lit-protocol/contracts-sdk": "^2.2.54",
+    "@lit-protocol/lit-node-client": "^2.2.24",
+    "@lit-protocol/pkp-ethers": "^2.2.54",
+    "ethers": "^6.7.1",
+    "siwe": "^1.1.6",
+    "uint8arrays": "^3.0.0"
+  }
+}
