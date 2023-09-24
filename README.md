@@ -1,5 +1,5 @@
-# DAI <> USD P2P swap protocol 
-
+# True P2P
+---
 
 **Problem:** P2P crypto swaps require bank transfer confirmation. This leads to centralization, delays and errors. 
 
@@ -42,13 +42,13 @@ The confirmation works with Plaid and the LIT Protocol nodes
 - [litActionPlaidCheck.js](lit-action%2FlitActionPlaidCheck.js) - LIT Action to verify Plaid requests
 - [bos](bos) - Frontend
 
-# Demo:
+## Demo:
 
 
 
 Url: https://bos.gg/#/azbang.near/widget/peer2peer
 
-# Source
+## Source
 - BOS Component: https://bos.gg/#/azbang.near/widget/peer2peer
 - LIT-Protocol action ipfsId: `QmVcetXaAnDcHmpX6cWxsGKGSoid4buVK2PkXQEDmgh6wQ`
 - LIT-Protocol PKPs: https://explorer.litprotocol.com/pkps/110216617645918104171481682055149393821345448971586480839222858944196209976493
