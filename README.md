@@ -47,5 +47,5 @@ Url: [https://bos.gg/#/azbang.near/widget/peer2peer](https://bos.gg/#/azbang.nea
 - BOS Component: [https://bos.gg/#/azbang.near/widget/peer2peer](https://bos.gg/#/azbang.near/widget/peer2peer)
 - LIT-Protocol action ipfsId: `QmVcetXaAnDcHmpX6cWxsGKGSoid4buVK2PkXQEDmgh6wQ`
 - LIT-Protocol PKPs: [https://explorer.litprotocol.com/pkps/110216617645918104171481682055149393821345448971586480839222858944196209976493](https://explorer.litprotocol.com/pkps/110216617645918104171481682055149393821345448971586480839222858944196209976493)
-- Goerli Plaid transactions endpoint: [https://goerli.etherscan.io/address/0x00e42dc2248f37a28d39f790d49230e2ddd37b99](https://goerli.etherscan.io/address/0x00e42dc2248f37a28d39f790d49230e2ddd37b99)
+- Goerli Plaid transactions endpoint: [https://goerli.etherscan.io/address/0xa52210eA78f678D10e0dD47DeC64ff6ACD3Fbe8B](https://goerli.etherscan.io/address/0x00e42dc2248f37a28d39f790d49230e2ddd37b99)
 - Goerli P2P Market: [https://goerli.etherscan.io/address/0xa3724030aA74016d1AE1e1B54bD79608F0E5866F](https://goerli.etherscan.io/address/0xa3724030aA74016d1AE1e1B54bD79608F0E5866F)
